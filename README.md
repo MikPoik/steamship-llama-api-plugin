@@ -2,9 +2,7 @@
 
 This plugin provides access to llama-api
 
-## Usage
 
-Use of this plugin is subject to OpenAI's [Terms of Use](https://openai.com/policies/terms-of-use).
 
 ### Examples
 
